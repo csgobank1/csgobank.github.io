@@ -1,2 +1,2 @@
-# csgobank.github.io
+# www.csgobank.github.io
 Csgo
